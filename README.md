@@ -15,6 +15,14 @@ Queues are everywhere on a daily basis. Real life example? Customers standing in
 
 ### Talks Dates and Locations
     
+20 October 2026
+- Cracow, Poland
+- JDD
+
+https://jdd.org.pl/?speaker=mateusz-nalepa-7bc921ec-bdb7-4f1e-84de-8157a682a962
+
+---
+
 8 October 2026
 - Katowice, Poland
 - 4Developers
