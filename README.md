@@ -1,4 +1,4 @@
-# Talks about Everyday Bottleneck
+# Talks about Everyday Bottleneck in Any Thread
 
 ### TL;DR - 1 minute
 Materials: https://github.com/mateusz-nalepa/cpu-io-queues-can-be-everywhere
