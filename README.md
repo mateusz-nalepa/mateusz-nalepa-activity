@@ -1,7 +1,7 @@
 # Talks about Everyday Bottleneck in Any Thread
 
 ### TL;DR - 1 minute
-Materials: https://github.com/mateusz-nalepa/cpu-io-queues-can-be-everywhere
+Materials https://github.com/mateusz-nalepa/cpu-io-queues-can-be-everywhere
 
 Queues are everywhere on a daily basis. Real life example? Customers standing in line at the checkout. In programming, response time metrics are usually not aware about queues. It may happen that:
 
@@ -10,6 +10,8 @@ Queues are everywhere on a daily basis. Real life example? Customers standing in
     - but what about queue wait time from customer perspective?
 - Client Response Time (http, database, etc.)
     - It's like customer queue wait time + cashier scanning time
+
+![store.png](images/store.png)
 
 ### Talks Dates and Locations
     
