@@ -39,6 +39,14 @@ https://confitura.pl/speakers/492c63af-1cf6-4ef7-8a1e-30739575051b
 
 ---
 
+4 July 2026
+- Cracow, Poland
+- devopsdays Kraków
+
+https://devopsdays.org/events/2026-krakow/program
+
+---
+
 24 June 2026
 - Torun, Poland
 - Torun Java User Group
