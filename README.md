@@ -1,4 +1,4 @@
-# Talks about Everyday Bottleneck in Any Thread
+# Talks about Queues and Performance
 
 ### TL;DR - 1 minute
 Materials https://github.com/mateusz-nalepa/cpu-io-queues-can-be-everywhere
@@ -14,7 +14,19 @@ Queues are everywhere on a daily basis. Real life example? Customers standing in
 ![store.png](images/store.png)
 
 ### Talks Dates and Locations
-    
+
+26 November 2026 - Upcoming
+- Lublin, Poland
+- Lublin Java User Group
+
+---
+
+18 November 2026 - Upcoming
+- Poznan, Poland
+- Poznan Java User Group
+
+---
+
 20 October 2026
 - Cracow, Poland
 - JDD
