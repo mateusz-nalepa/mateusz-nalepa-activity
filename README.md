@@ -15,7 +15,7 @@ Queues are everywhere on a daily basis. Real life example? Customers standing in
 
 ### Talks Dates and Locations
 
-26 November 2026 - Upcoming
+25 November 2026 - Upcoming
 - Lublin, Poland
 - Lublin Java User Group
 
